@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navesvjv&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navesvjv&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
